@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="LightGrey">#50595e</color>
+     <color name="BlueGrey">#343d43</color>
+     <color name="ContainerBlue">#363940</color>
+     <color name="textColorPrimary">#2f3137</color>
+     <color name="colorPrimary">#25272c</color>
+     <color name="colorPrimaryDark">#25272c</color>
+     <color name="TextGrey">#3f4952</color>
+     <color name="TextDark">#939394</color>
+     <color name="TextSelectedLightGrey">#878e97</color>
+     <color name="MintYellow">#fdd835</color>
+     <color name="MaybeHeader1">#4c4c72</color>
+     <color name="MaybeHeader2">#6087ac</color>
+     <color name="MaybeHeader3">#72c1c6</color>
+     <color name="MaybeHeader4">#9de8d3</color>
+     <color name="MaybeHeader5">#303049</color>
+     <color name="UnderHeader">#272d41</color>
+     <color name="MaybeHeader6">#41866c</color>
+     <color name="UnderHeader2">#384049</color>
+     <color name="MintYellowLight">#006e5a</color>
+     <color name="Icone">#0f1421</color>
+     <color name="GialloHeader">#fbc02d</color>
+     <color name="SemiOrangeHeader">#f9a825</color>
+     <color name="highlight">#3f4952</color>
+     <color name="OrangeTextBackground">#FF8837</color>
+     <color name="trasparent">@android:color/transparent</color>
+</resources>

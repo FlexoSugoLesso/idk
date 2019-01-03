@@ -1,0 +1,36 @@
+
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppThemeNoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/TextDark</item>
+        <item name="android:colorAccent">#578b6d</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/activated_background</item>
+    </style>
+    <style name="MenuItems" parent="AppThemeNoActionBar">
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/metropolisbold</item>
+    </style>
+
+    <style name="Event_Title" parent="AppThemeNoActionBar">
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/metropolismedium</item>
+        <item name="android:textColor">#25272C</item>
+    </style>
+
+    <style name="Event_Title_Date" parent="AppThemeNoActionBar">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/metropolisbold</item>
+        <item name="android:textColor">#ffff</item>
+    </style>
+    <style name="Event_Title_Tab" parent="AppThemeNoActionBar">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/metropolisbold</item>
+        <item name="android:textColor">#25272C</item>
+    </style>
+
+</resources>

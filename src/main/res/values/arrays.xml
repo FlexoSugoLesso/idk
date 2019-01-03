@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="indicator_colors">
+        <item>@color/MintYellow</item>
+        <item>@color/TextDark</item>
+        <item>@color/TextSelectedLightGrey</item>
+        <item>@color/TextGrey</item>
+    </string-array>
+</resources>
